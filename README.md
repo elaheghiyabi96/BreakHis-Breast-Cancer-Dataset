@@ -61,3 +61,5 @@ The dataset can be used for experiments in image classification, deep learning, 
 Labels are directly derived from the folder structure, making it easy to generate training and validation datasets.
 
 The multiple magnification levels allow investigation of how scale affects classification performance.
+
+Link: https://data.mendeley.com/datasets/jxwvdwhpc2/1
